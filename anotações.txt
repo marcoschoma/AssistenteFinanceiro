@@ -1,0 +1,57 @@
+controlar despesas
+simular finanças
+analisar gastos
+
+>> qual o impacto deste gasto no meu orçamento?
+
+Lançamento
+	despesa, data, valor
+Despesa
+	id, nome, tipo, categoria, valor default
+Tipo
+	mensal
+	evento
+Categorias
+	investimento
+	moradia
+	mercado
+	lazer
+	gadgets
+
+AF
+	Auth
+		Application
+		Domain
+			Commands
+			Entities
+			Repositories
+			Services
+			Scopes
+			Specs
+		Infra
+		Tests
+	Core
+		Application
+		Domain
+			Commands
+			Entities
+			Repositories
+			Services
+			Scopes
+			Specs
+		Infra
+		Tests
+	Shared
+		Application
+		Domain
+			Entities
+			Repositories
+			Services
+		Infra
+			Services
+		Infra.Data
+			Repositories
+			Transactions
+		Tests
+		Settings
+	
