@@ -1,3 +1,15 @@
+pra fazer os lançamentos iniciais, posso usar um insert
+assim dá pra focar nos relatórios
+os relatórios são a parte importante do projeto
+
+pra ter os relatórios eu preciso de uma API que exiba os dados
+
+quais relatórios?
+	- Saldo atual
+	- próximos créditos
+	- próximas despesas
+	- lançamentos paginados, para rolagem infinita
+
 controlar despesas
 simular finanças
 analisar gastos
